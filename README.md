@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/luqimin2005/luqimin2005.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+[测试连接](/atlas/use-atlas-manage-hive-matedata-cross-kerberos.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
