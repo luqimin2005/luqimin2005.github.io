@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 [测试连接](/atlas/use-atlas-manage-hive-matedata-cross-kerberos.md)
+[测试连接2](security/KDC - Config for Master-Slave Replication.md)
 
 ### Markdown
 
